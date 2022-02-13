@@ -1,0 +1,2 @@
+2022-01-29 19:07:36,419 - ERROR    - log.py    [:45] - error message
+2022-01-29 19:07:36,419 - CRITICAL - log.py    [:46] - critical message

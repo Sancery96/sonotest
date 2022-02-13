@@ -1,0 +1,76 @@
+2022-01-29 19:07:36,418 - DEBUG    - log.py    [:42] - debug message
+2022-01-29 19:07:36,419 - INFO     - log.py    [:43] - info message
+2022-01-29 19:07:36,419 - WARNING  - log.py    [:44] - warn message
+2022-01-29 19:07:36,419 - ERROR    - log.py    [:45] - error message
+2022-01-29 19:07:36,419 - CRITICAL - log.py    [:46] - critical message
+2022-01-29 19:11:03,369 - INFO     - ssh_client.py[:28] - connect to port 22 on 192.168.203.129 success!
+2022-01-29 19:14:08,703 - INFO     - ssh_client.py[:28] - connect to port 22 on 192.168.203.129 success!
+2022-01-29 19:14:10,191 - INFO     - fileutil.py[:161] - put file D:\code\autotest\venv\Scripts\activate to remote /home/root1/wuq//activate success!
+2022-01-29 19:14:10,246 - INFO     - fileutil.py[:161] - put file D:\code\autotest\venv\Scripts\activate.bat to remote /home/root1/wuq//activate.bat success!
+2022-01-29 19:14:10,315 - INFO     - fileutil.py[:161] - put file D:\code\autotest\venv\Scripts\activate.fish to remote /home/root1/wuq//activate.fish success!
+2022-01-29 19:14:10,383 - INFO     - fileutil.py[:161] - put file D:\code\autotest\venv\Scripts\activate.ps1 to remote /home/root1/wuq//activate.ps1 success!
+2022-01-29 19:14:10,428 - INFO     - fileutil.py[:161] - put file D:\code\autotest\venv\Scripts\activate.xsh to remote /home/root1/wuq//activate.xsh success!
+2022-01-29 19:14:10,530 - INFO     - fileutil.py[:161] - put file D:\code\autotest\venv\Scripts\activate_this.py to remote /home/root1/wuq//activate_this.py success!
+2022-01-29 19:14:10,634 - INFO     - fileutil.py[:161] - put file D:\code\autotest\venv\Scripts\deactivate.bat to remote /home/root1/wuq//deactivate.bat success!
+2022-01-29 19:14:10,757 - INFO     - fileutil.py[:161] - put file D:\code\autotest\venv\Scripts\pip-3.7.exe to remote /home/root1/wuq//pip-3.7.exe success!
+2022-01-29 19:14:10,872 - INFO     - fileutil.py[:161] - put file D:\code\autotest\venv\Scripts\pip.exe to remote /home/root1/wuq//pip.exe success!
+2022-01-29 19:14:10,977 - INFO     - fileutil.py[:161] - put file D:\code\autotest\venv\Scripts\pip3.7.exe to remote /home/root1/wuq//pip3.7.exe success!
+2022-01-29 19:14:11,193 - INFO     - fileutil.py[:161] - put file D:\code\autotest\venv\Scripts\pip3.exe to remote /home/root1/wuq//pip3.exe success!
+2022-01-29 19:14:11,280 - INFO     - fileutil.py[:161] - put file D:\code\autotest\venv\Scripts\pydoc.bat to remote /home/root1/wuq//pydoc.bat success!
+2022-01-29 19:14:11,395 - INFO     - fileutil.py[:161] - put file D:\code\autotest\venv\Scripts\python.exe to remote /home/root1/wuq//python.exe success!
+2022-01-29 19:14:11,590 - INFO     - fileutil.py[:161] - put file D:\code\autotest\venv\Scripts\pythonw.exe to remote /home/root1/wuq//pythonw.exe success!
+2022-01-29 19:14:11,836 - INFO     - fileutil.py[:161] - put file D:\code\autotest\venv\Scripts\wheel-3.7.exe to remote /home/root1/wuq//wheel-3.7.exe success!
+2022-01-29 19:14:12,086 - INFO     - fileutil.py[:161] - put file D:\code\autotest\venv\Scripts\wheel.exe to remote /home/root1/wuq//wheel.exe success!
+2022-01-29 19:14:12,433 - INFO     - fileutil.py[:161] - put file D:\code\autotest\venv\Scripts\wheel3.7.exe to remote /home/root1/wuq//wheel3.7.exe success!
+2022-01-29 19:14:12,548 - INFO     - fileutil.py[:161] - put file D:\code\autotest\venv\Scripts\wheel3.exe to remote /home/root1/wuq//wheel3.exe success!
+2022-01-29 20:10:43,602 - INFO     - case.py   [:36] - execute case print(1)
+print(2)
+print(3) success
+2022-01-29 20:12:12,240 - INFO     - case.py   [:36] - execute case 
+print(1)
+print(2)
+print(3) 
+success
+2022-01-29 20:16:07,014 - INFO     - case.py   [:39] - execute case 
+print(1)
+print(2)
+print(3) 
+success!
+2022-01-29 20:16:39,367 - INFO     - case.py   [:39] - execute case 
+print(1)
+print(2)
+print(3) 
+success!
+2022-01-29 20:16:39,368 - INFO     - case.py   [:39] - execute case 
+print("hello") 
+success!
+2022-01-29 20:18:25,046 - INFO     - case.py   [:39] - execute case 0-print(1) success!
+2022-01-29 20:18:25,046 - INFO     - case.py   [:39] - execute case 1-print(2) success!
+2022-01-29 20:18:25,046 - INFO     - case.py   [:39] - execute case 2-print(3) success!
+2022-01-29 20:18:25,046 - INFO     - case.py   [:39] - execute case 0-print("hello") success!
+2022-01-29 20:19:13,199 - INFO     - case.py   [:39] - execute case line  0 -- print(1) success!
+2022-01-29 20:19:13,199 - INFO     - case.py   [:39] - execute case line  1 -- print(2) success!
+2022-01-29 20:19:13,199 - INFO     - case.py   [:39] - execute case line  2 -- print(3) success!
+2022-01-29 20:19:13,200 - INFO     - case.py   [:39] - execute case line  0 -- print("hello") success!
+2022-01-29 20:19:22,594 - INFO     - case.py   [:39] - execute case line0 -- print(1) success!
+2022-01-29 20:19:22,594 - INFO     - case.py   [:39] - execute case line1 -- print(2) success!
+2022-01-29 20:19:22,595 - INFO     - case.py   [:39] - execute case line2 -- print(3) success!
+2022-01-29 20:19:22,595 - INFO     - case.py   [:39] - execute case line0 -- print("hello") success!
+2022-01-29 20:19:36,212 - INFO     - case.py   [:39] - execute case line  0 -- print(1) success!
+2022-01-29 20:19:36,213 - INFO     - case.py   [:39] - execute case line  1 -- print(2) success!
+2022-01-29 20:19:36,213 - INFO     - case.py   [:39] - execute case line  2 -- print(3) success!
+2022-01-29 20:19:36,213 - INFO     - case.py   [:39] - execute case line  0 -- print("hello") success!
+2022-01-29 20:19:50,193 - INFO     - case.py   [:39] - execute case line0   -- print(1) success!
+2022-01-29 20:19:50,193 - INFO     - case.py   [:39] - execute case line1   -- print(2) success!
+2022-01-29 20:19:50,193 - INFO     - case.py   [:39] - execute case line2   -- print(3) success!
+2022-01-29 20:19:50,193 - INFO     - case.py   [:39] - execute case line0   -- print("hello") success!
+2022-01-29 20:20:20,124 - INFO     - case.py   [:39] - execute case line1   -- print(1) success!
+2022-01-29 20:20:20,125 - INFO     - case.py   [:39] - execute case line2   -- print(2) success!
+2022-01-29 20:20:20,125 - INFO     - case.py   [:39] - execute case line3   -- print(3) success!
+2022-01-29 20:20:20,125 - INFO     - case.py   [:39] - execute case line1   -- print("hello") success!
+2022-01-29 20:21:22,274 - INFO     - case.py   [:39] - execute case line1   -- print(1) success!
+2022-01-29 20:21:22,276 - INFO     - case.py   [:39] - execute case line2   -- print(2) success!
+2022-01-29 20:21:22,276 - INFO     - case.py   [:39] - execute case line3   -- print(3) success!
+2022-01-29 20:21:22,276 - INFO     - case.py   [:39] - execute case line4   --  success!
+2022-01-29 20:21:22,276 - INFO     - case.py   [:39] - execute case line5   -- print(self.format('abc')) success!
+2022-01-29 20:21:22,276 - INFO     - case.py   [:39] - execute case line1   -- print("hello") success!
